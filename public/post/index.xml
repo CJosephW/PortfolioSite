@@ -2,58 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cameron Wise</title>
-    <link>https://username.github.io/post/</link>
+    <link>https://cjosephw.github.io/post/</link>
     <description>Recent content in Posts on Cameron Wise</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Cameron Wise)</managingEditor>
     <webMaster>youremail@domain.com (Cameron Wise)</webMaster>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cjosephw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Simple PHP Blog with login</title>
+      <link>https://cjosephw.github.io/post/php-blog/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Cameron Wise)</author>
+      <guid>https://cjosephw.github.io/post/php-blog/</guid>
+      <description>&lt;p&gt;This is a simple blog using PHP, MYSQL, HTML, CSS JS, and Bootstrap 4. I made this project to refresh my knowledge on my PHP and get some experience with hashing passwords.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DrawTogether!</title>
+      <link>https://cjosephw.github.io/post/draw-together/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Cameron Wise)</author>
+      <guid>https://cjosephw.github.io/post/draw-together/</guid>
+      <description>&lt;p&gt;This is a Javascript Canvas App using Websockets, Express, and HTML &amp;amp; CSS to create a real time drawing app. Using unique IDs given on connection, users can join their friends Canvas and draw together! This app also has a simple chat function to communicate with friends.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>React Todo List</title>
+      <link>https://cjosephw.github.io/post/todo-list/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Cameron Wise)</author>
+      <guid>https://cjosephw.github.io/post/todo-list/</guid>
+      <description>&lt;p&gt;React todo list to test my knowlege on React after working with React Native for a bit. This Recat app uses webkit, HTML, CSS, JS, and Boostrap.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Discod Bot</title>
-      <link>https://username.github.io/post/discord-bot/</link>
+      <link>https://cjosephw.github.io/post/discord-bot/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Cameron Wise)</author>
-      <guid>https://username.github.io/post/discord-bot/</guid>
+      <guid>https://cjosephw.github.io/post/discord-bot/</guid>
       <description>&lt;p&gt;Discord Bot using python&amp;rsquo;s discord.py package&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Murphy&#39;s Mow &amp; Snow Website</title>
-      <link>https://username.github.io/post/murphys-mow-snow/</link>
+      <link>https://cjosephw.github.io/post/murphys-mow-snow/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Cameron Wise)</author>
-      <guid>https://username.github.io/post/murphys-mow-snow/</guid>
+      <guid>https://cjosephw.github.io/post/murphys-mow-snow/</guid>
       <description>&lt;p&gt;Business site for Murphy&amp;rsquo;s Mow &amp;amp; Snow&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Fire Fighting and EMS App</title>
-      <link>https://username.github.io/post/ffemsapp/</link>
+      <link>https://cjosephw.github.io/post/ffemsapp/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Cameron Wise)</author>
-      <guid>https://username.github.io/post/ffemsapp/</guid>
+      <guid>https://cjosephw.github.io/post/ffemsapp/</guid>
       <description>&lt;p&gt;React Native App for Fire Fighting and EMS class at the JACC&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Amazon Web Scraper</title>
-      <link>https://username.github.io/post/amazon-scraper/</link>
+      <link>https://cjosephw.github.io/post/amazon-scraper/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Cameron Wise)</author>
-      <guid>https://username.github.io/post/amazon-scraper/</guid>
-      <description>&lt;p&gt;Another web scraping app using Python with Selenium&lt;/p&gt;</description>
+      <guid>https://cjosephw.github.io/post/amazon-scraper/</guid>
+      <description>&lt;p&gt;Another web scraping app using Python with Selenium to get data from Amazon&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HotSchedules AutoPickup Script</title>
-      <link>https://username.github.io/post/autopickup/</link>
+      <link>https://cjosephw.github.io/post/autopickup/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Cameron Wise)</author>
-      <guid>https://username.github.io/post/autopickup/</guid>
+      <guid>https://cjosephw.github.io/post/autopickup/</guid>
       <description>&lt;p&gt;A Python script using Selenium to check avaliable shifts on Hotschedules.com&lt;/p&gt;</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://cjosephw.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Cameron Wise"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Cameron Wise" # Set a different text for the header on the home page
-  subtitle = "Software Developer | Web Designer | Data Analysis"
+  subtitle = "Software Developer | Web Designer | Data Analysist"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
