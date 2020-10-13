@@ -1,4 +1,4 @@
-baseurl = "https://cjosephw.github.io"
+baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Cameron Wise"
@@ -23,7 +23,7 @@ pygmentsCodefencesGuessSyntax = true
   commit = false
   rss = true
   comments = true
-  readingTime = true
+  readingTime = false
   wordCount = true
   useHLJS = true
   socialShare = true
@@ -46,33 +46,13 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Cameron Wise"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  website = "www.cameronwise.me"
+  email = "wisecameron1@gmail.com"
   facebook = "username"
   github = "CJosephW"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
+ 
+ 
+
 
 [[menu.main]]
     name = "Blog"

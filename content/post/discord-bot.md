@@ -1,5 +1,5 @@
 ---
-title: Discod Bot
+title: Discord Bot
 date: 2020-04-02
 ---
 
